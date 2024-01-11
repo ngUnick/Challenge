@@ -14,6 +14,10 @@ body {
 
 
 /* Tables ----------------------------------------------------- */
+.outer-table {
+    margin: auto;
+}
+
 #table1,
 #table2 {
     margin: auto;
